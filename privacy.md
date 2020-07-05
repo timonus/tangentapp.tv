@@ -1,0 +1,4 @@
+# Tangent Privacy Policy
+
+- Tangent performs authentication with Instagram on the web then provides a pin code to sign in with. In order to do this we temporarily store user credentials in a server that are transferred to the Tangent app. These credentials are inaccessible by anything other than Tangent, they expire within 30 minutes of being generated, and they expire immediately if used.
+- Tangent allows users to view the content that they're viewing in the app on the web, to do this the app periodically sends state to a service that users can then navigate to a web URL to see. This state is stored for a max of 15 minutes, and is removed immediately if the setting is turned off. This feature of Tangent is opt-in, not enabled by default, and nothing is sent to the service when it's disabled.
